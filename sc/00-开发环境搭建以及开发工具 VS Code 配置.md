@@ -132,4 +132,6 @@ Hello World!
 
 关注公众号 **AlwaysBeta**，回复「**goebook**」领取 Go 编程经典书籍。
 
-![](https://github.com/yongxinz/gopher/blob/main/alwaysbeta.JPG)
+<center class="half">
+    <img src="https://github.com/yongxinz/gopher/blob/main/alwaysbeta.JPG" width="300"/>
+</center>

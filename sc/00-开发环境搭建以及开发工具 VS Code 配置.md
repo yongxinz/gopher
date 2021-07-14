@@ -130,4 +130,6 @@ Hello World!
 
 **地址：** https://github.com/yongxinz/gopher/tree/main/sc
 
-关注公众号，回复「**goebook**」领取 Go 编程经典书籍。
+关注公众号 **AlwaysBeta**，回复「**goebook**」领取 Go 编程经典书籍。
+
+![](https://github.com/yongxinz/gopher/blob/main/alwaysbeta.JPG)

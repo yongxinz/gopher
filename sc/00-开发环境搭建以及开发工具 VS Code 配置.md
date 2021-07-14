@@ -1,3 +1,5 @@
+![](https://github.com/yongxinz/gopher/blob/main/sc/pic/00_GO%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.png)
+
 Go 专栏的第一篇，想学 Go 的同学们，走起～
 
 ### Go 安装
@@ -16,6 +18,8 @@ Go 专栏的第一篇，想学 Go 的同学们，走起～
 #### Mac 下安装
 
 可以通过 `brew` 方式安装，也可以直接在官网下载可执行文件，然后双击安装包，不停下一步就可以了。
+
+![](https://github.com/yongxinz/gopher/blob/main/sc/pic/00_mac_install_go.png)
 
 #### Linux 下安装
 
@@ -77,8 +81,9 @@ go mod 先这样配置就可以了，后续再来写文章详细介绍。
 
 官方下载地址：https://code.visualstudio.com/Download
 
-安装 Go 插件，并重启。
+安装 Go 插件，并重启：
 
+![](https://github.com/yongxinz/gopher/blob/main/sc/pic/00_vs_code_install_go.png)
 
 ### 第一个 Go 程序
 

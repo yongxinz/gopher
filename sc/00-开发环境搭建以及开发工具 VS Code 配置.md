@@ -43,7 +43,7 @@ export PATH=$PATH:$GOROOT/bin
 最后使环境变量生效：
 
 ```shell
-source $HOME/.bash_profile
+$ source $HOME/.bash_profile
 ```
 
 安装完成后，在终端执行查看版本命令，如果能正确输出版本信息，那就说明安装成功了。

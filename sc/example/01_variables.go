@@ -1,6 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"os"
+)
+
+// 全局变量
+var gg = "global"
 
 func main() {
 
@@ -81,4 +87,22 @@ func main() {
 		// fmt.Println(v)	// 定义 i 但不用会报错 i declared but not used
 		fmt.Println(v) // 忽略索引
 	}
+
+	// 作用域
+	fmt.Println(gg) // 输出 global
+	gg = "local"
+	fmt.Println(gg) // 输出 local
+
+	// 条件分支下的作用域
+	// if f, err := os.Open("./00_hello.go"); err != nil {
+	// 	fmt.Println(err)
+	// }
+	// f.Close()	// 报错 f.Close undefined (type string has no field or method Close)
+
+	// 正确写法
+	file, err := os.Open("00_hello.go")
+	if err != nil {
+		fmt.Println(err)
+	}
+	file.Close()
 }

@@ -61,6 +61,11 @@ func main() {
 	s1 := "hello"
 	s2 := "world"
 
+	// 原始字符串
+	s := `row1\r\n
+	row2`
+	fmt.Println(s)
+
 	// 字符串拼接
 	s3 := s1 + s2
 	fmt.Println(s3)

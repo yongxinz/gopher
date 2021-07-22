@@ -56,4 +56,36 @@ func main() {
 	if m == 1 {
 		fmt.Println("m is 1")
 	}
+
+	// 字符串
+	s1 := "hello"
+	s2 := "world"
+
+	// 字符串拼接
+	s3 := s1 + s2
+	fmt.Println(s3)
+	// 取字符串长度
+	fmt.Println(len(s3))
+	// 取单个字符
+	fmt.Println(s3[4])
+	// 字符串切片
+	fmt.Println(s3[2:4])
+	fmt.Println(s3[:4])
+	fmt.Println(s3[2:])
+	fmt.Println(s3[:])
+
+	// 修改报错
+	// s3[0] = "H"	// cannot assign to s3[0] (strings are immutable)
+
+	s4 := "hello 世界"
+
+	// 遍历字节数组
+	for i := 0; i < len(s4); i++ {
+		fmt.Println(i, s4[i])
+	}
+
+	// 遍历 rune 数组
+	for i, v := range s4 {
+		fmt.Println(i, v)
+	}
 }

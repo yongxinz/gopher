@@ -28,6 +28,54 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 4. 《Go 语言核心编程》--- 李文塔
 5. 《Go 语言学习笔记》--- 雨痕
 6. 《Go 编程并发实战》--- 郝林
+7. [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+8. [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+9. [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang)
+10. [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
+11. [《Go语言学习笔记》](https://github.com/qyuhen/book)
+12. [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
+13. [Effective Go](https://golang.org/doc/effective_go.html)
+14. [《Learning Go》](https://github.com/miekg/gobook)英文版:=>[《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn) 中文版
+15. [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
+16. [Network programming with Go](http://jan.newmarch.name/go/)：[中文版](https://github.com/astaxie/NPWG_zh)
+17. [Practical Cryptography With Go](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
+18. [An Introduction to Programming in Go](http://www.golang-book.com/)
+19. [Go Bootcamp](http://www.golangbootcamp.com/book)
+20. [Mastering Concurrency in Go(July 2014)Nathan Kozyra](https://www.packtpub.com/application-development/mastering-concurrency-go)
+21. [Go Programming Blueprints(January 23,2015)](https://www.packtpub.com/application-development/go-programming-blueprints)
+22. [The Go Programming Language(Published Oct 30, 2015,Not Yet Published)](http://www.gopl.io/)
+23. [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+
+## Go 项目
+
+- Web 框架：
+	- [Macaron](https://go-macaron.com/)：模块化 Web 框架
+	- [Beego](http://beego.me/)：重量级 Web 框架
+	- [Revel](https://github.com/revel/revel)：较早成熟的重量级 Web 框架
+	- [Martini](https://github.com/go-martini/martini): 一个强大为了编写模块化 Web 应用而生的 Go 语言框架
+	- [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
+	- [Gin](https://github.com/gin-gonic/gin)：轻量级 HTTP Web 框架
+	- [Iris](https://github.com/kataras/iris)：Iris 是基于 Go 编写的一个快速，简单但功能齐全且非常高效的 Web 框架
+- ORM 以及数据库驱动：
+	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
+	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
+	- [gorm](https://github.com/jinzhu/gorm): 全功能 ORM (无限接近) 支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
+	- [gosql](https://github.com/rushteam/gosql):  gosql 一款全新ORM go-style风格、轻量、简单、强大 支持 MySQL
+
+## 资料汇总
+
+- 文档：
+	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导
+	- [Go Code Convention](https://github.com/Unknwon/go-code-convention)：无闻的 Go 语言编码规范
+	- [Uber Go Guide](https://github.com/xxjwxc/uber_go_guide_cn): Uber Go 语言编码规范
+	- [GopherCon 2014](https://github.com/gophercon/2014-talks)
+	- [GopherCon 2015](https://github.com/gophercon/2015-talks)
+	- [GopherCon 2016](https://github.com/gophercon/2016-talks)
+	- [GopherCon 2017](https://github.com/gophercon/2017-talks)
+
+- 学习站点：
+	- [Go by Example](https://gobyexample.com/)
+	- [Go database/sql tutorial](http://go-database-sql.org/)
 
 ## 交流社区
 
@@ -55,28 +103,12 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 	- [Go 指南国内镜像](http://tour.golangtc.com/)
 	- [Go 语言国内下载镜像](http://www.golangtc.com/download)
 	- [Go 官方网站国内镜像](http://docs.studygolang.com/)
-- Web 框架：
-	- [Macaron](https://go-macaron.com/)：模块化 Web 框架
-	- [Beego](http://beego.me/)：重量级 Web 框架
-	- [Revel](https://github.com/revel/revel)：较早成熟的重量级 Web 框架
-	- [Martini](https://github.com/go-martini/martini): 一个强大为了编写模块化 Web 应用而生的 Go 语言框架
-	- [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
-	- [Gin](https://github.com/gin-gonic/gin)：轻量级 HTTP Web 框架
-	- [Iris](https://github.com/kataras/iris)：Iris 是基于 Go 编写的一个快速，简单但功能齐全且非常高效的 Web 框架
-- ORM 以及数据库驱动：
-	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
-	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
-	- [gorm](https://github.com/jinzhu/gorm): 全功能 ORM (无限接近) 支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
-	- [gosql](https://github.com/rushteam/gosql):  gosql 一款全新ORM go-style风格、轻量、简单、强大 支持 MySQL
 - 辅助站点：
 	- [Go Walker](https://gowalker.org)：Go 语言在线 API 文档
 	- [gobuild.io](http://gobuild.io/)：Go 语言在线二进制编译与下载
 	- [Rego](http://regoio.herokuapp.com/)：Go 语言正则在线测试
 	- [gopm.io](https://gopm.io)：科学下载第三方包
     - [Json To Go struct](https://mholt.github.io/json-to-go/):Convert JSON to Go struct在线工具
-- 学习站点：
-	- [Go by Example](https://gobyexample.com/)
-	- [Go database/sql tutorial](http://go-database-sql.org/)
 - 支持 Go 的云平台：
 	- [Koding](https://koding.com/)
 	- [Nitrous.IO](https://www.nitrous.io/)
@@ -93,55 +125,12 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 	- [Newspaper.IO](http://www.newspaper.io/golang)：Golang 新闻订阅
 	- [Go Newsletter](http://www.golangweekly.com/)：Golang 新闻订阅
 
-## 资料汇总
-
-### 中文资料
-
-- 书籍：
-	- [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
-	- [《Go实战开发》](https://github.com/astaxie/Go-in-Action)
-	- [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-	- [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-	- [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang)
-	- [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
-	- [《Go语言学习笔记》](https://github.com/qyuhen/book)
-	- [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
-- 翻译：
-	- [Effective Go](https://golang.org/doc/effective_go.html) 英文版
-	- [The Way to Go](https://github.com/Unknwon/the-way-to-go_ZH_CN) 中文版
-	- [《Learning Go》](https://github.com/miekg/gobook)英文版:=>[《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn) 中文版
-- 教程：
-	- [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
-	- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
-	- [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
-	- [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
-
-### 英文资料
-
-- 文档：
-	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导
-	- [Go Code Convention](https://github.com/Unknwon/go-code-convention)：无闻的 Go 语言编码规范
-	- [Uber Go Guide](https://github.com/xxjwxc/uber_go_guide_cn): Uber Go 语言编码规范
-	- [GopherCon 2014](https://github.com/gophercon/2014-talks)
-	- [GopherCon 2015](https://github.com/gophercon/2015-talks)
-	- [GopherCon 2016](https://github.com/gophercon/2016-talks)
-	- [GopherCon 2017](https://github.com/gophercon/2017-talks)
-- 书籍：
-	- [Network programming with Go](http://jan.newmarch.name/go/)：[中文版](https://github.com/astaxie/NPWG_zh)
-	- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
-	- [An Introduction to Programming in Go](http://www.golang-book.com/)
-	- [Go Bootcamp](http://www.golangbootcamp.com/book)
-	- [Mastering Concurrency in Go(July 2014)Nathan Kozyra](https://www.packtpub.com/application-development/mastering-concurrency-go)
-	- [Go Programming Blueprints(January 23,2015)](https://www.packtpub.com/application-development/go-programming-blueprints)
-	- [The Go Programming Language(Published Oct 30, 2015,Not Yet Published)](http://www.gopl.io/)
-	- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
-
-### 视频资料
+## 视频资料
 
 - 基础：
-	- Go Slices and Bytes - Shakeel Mahate：[优酷视频](http://v.youku.com/v_show/id_XNjkzMjM1Mjg4.html) - [Youtube](http://www.youtube.com/watch?v=dKlNSIUSfz0)
+	- Go Slices and Bytes - Shakeel Mahate：[Youtube](http://www.youtube.com/watch?v=dKlNSIUSfz0)
 - COSCUP 2013:
-	- Golang & ORM - 林佑安：[优酷视频](http://v.youku.com/v_show/id_XNjkzMTQ1MjYw.html) - [Youtube](http://www.youtube.com/watch?v=VwAtYGyjTks)
+	- Golang & ORM - 林佑安：[Youtube](http://www.youtube.com/watch?v=VwAtYGyjTks)
 - GopherCon：
 	- 2014：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBcD_BiJiDJUcyrb2w3bTulF)
 	- 2015：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm)
@@ -162,3 +151,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 ## 免责声明
 
 文中分享书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。
+
+<center class="half">
+    <img src="https://github.com/yongxinz/gopher/blob/main/weixin.JPG" width="300"/>
+</center>

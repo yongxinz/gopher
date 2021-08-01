@@ -41,9 +41,9 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 17. [《Practical Cryptography With Go》](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
 18. [《An Introduction to Programming in Go》](http://www.golang-book.com/)
 19. [《Go Bootcamp》](http://www.golangbootcamp.com/book)
-20. [《Mastering Concurrency in Go(July 2014)Nathan Kozyra》](https://www.packtpub.com/application-development/mastering-concurrency-go)
-21. [《Go Programming Blueprints(January 23,2015)》](https://www.packtpub.com/application-development/go-programming-blueprints)
-22. [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
+20. [《Mastering Concurrency in Go》](https://www.packtpub.com/application-development/mastering-concurrency-go) July 2014 Nathan Kozyra
+21. [《Go Programming Blueprints》](https://www.packtpub.com/application-development/go-programming-blueprints) January 23,2015
+22. [《The Go Programming Language》](http://www.gopl.io/) Published Oct 30, 2015,Not Yet Published
 23. [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ## Go 项目

@@ -35,9 +35,9 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 11. [《Go语言学习笔记》](https://github.com/qyuhen/book)
 12. [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 13. [《Effective Go》](https://golang.org/doc/effective_go.html)
-14. [《Learning Go》](https://github.com/miekg/gobook)英文版:=>[《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn) 中文版
+14. [《Learning Go》](https://github.com/miekg/gobook)英文版 => [《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn) 中文版
 15. [《Go 命令教程》](https://github.com/hyper-carrot/go_command_tutorial)
-16. [《Network programming with Go》](http://jan.newmarch.name/go/)：[中文版](https://github.com/astaxie/NPWG_zh)
+16. [《Network programming with Go》](http://jan.newmarch.name/go/) => [中文版](https://github.com/astaxie/NPWG_zh)
 17. [《Practical Cryptography With Go》](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
 18. [《An Introduction to Programming in Go》](http://www.golang-book.com/)
 19. [《Go Bootcamp》](http://www.golangbootcamp.com/book)

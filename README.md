@@ -18,6 +18,17 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 5. [复合数据类型：字典 map 和 结构体 struct](<https://github.com/yongxinz/gopher/blob/main/sc/04-%E5%A4%8D%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E5%AD%97%E5%85%B8%20map%20%E5%92%8C%20%E7%BB%93%E6%9E%84%E4%BD%93%20struct.md>)
 
+## 必读书单
+
+[百度云下载链接](https://pan.baidu.com/s/1kX_QBAEmJ7twIV56QVOkxQ) 密码：51fn
+
+1. 《Go 程序设计语言》--- 艾伦A.A.多诺万、布莱恩W.柯尼汉
+2. 《Go 语言编程》--- 许式伟
+3. 《Go 语言实战》--- 威廉·肯尼迪、布莱恩·克特森、埃里克·圣马丁
+4. 《Go 语言核心编程》--- 李文塔
+5. 《Go 语言学习笔记》--- 雨痕
+6. 《Go 编程并发实战》--- 郝林
+
 ## 交流社区
 
 ### 中文社区
@@ -148,8 +159,6 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - GopherCon India 2015: [Youtube](https://www.youtube.com/playlist?list=PLxFC1MYuNgJTY3uQ5Ja4F5Sz305nnrBOq)
 
 
-## 职业信息
+## 免责声明
 
-- Go/Golang jobs：
-	- 官方网站：http://www.golangprojects.com/
-	- Twitter: [@golangprojects](https://twitter.com/golangprojects) 
+文中分享书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。

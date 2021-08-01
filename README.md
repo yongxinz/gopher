@@ -6,6 +6,10 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
     <img src="https://github.com/yongxinz/gopher/blob/main/alwaysbeta.JPG" width="300"/>
 </center>
 
+## Go 开发路线
+
+https://github.com/Alikhll/golang-developer-roadmap
+
 ## 基础专栏
 
 1. [开发环境搭建以及开发工具 VS Code 配置](<https://github.com/yongxinz/gopher/blob/main/sc/00-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20VS%20Code%20%E9%85%8D%E7%BD%AE.md>)
@@ -79,6 +83,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - 学习站点：
 	- [Go by Example](https://gobyexample.com/)
 	- [Go database/sql tutorial](http://go-database-sql.org/)
+	- [标准库代码示例](https://github.com/astaxie/gopkg)
 
 ## 交流社区
 

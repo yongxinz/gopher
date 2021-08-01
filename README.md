@@ -34,17 +34,17 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 10. [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
 11. [《Go语言学习笔记》](https://github.com/qyuhen/book)
 12. [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
-13. [Effective Go](https://golang.org/doc/effective_go.html)
+13. [《Effective Go》](https://golang.org/doc/effective_go.html)
 14. [《Learning Go》](https://github.com/miekg/gobook)英文版:=>[《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn) 中文版
-15. [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
-16. [Network programming with Go](http://jan.newmarch.name/go/)：[中文版](https://github.com/astaxie/NPWG_zh)
-17. [Practical Cryptography With Go](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
-18. [An Introduction to Programming in Go](http://www.golang-book.com/)
-19. [Go Bootcamp](http://www.golangbootcamp.com/book)
-20. [Mastering Concurrency in Go(July 2014)Nathan Kozyra](https://www.packtpub.com/application-development/mastering-concurrency-go)
-21. [Go Programming Blueprints(January 23,2015)](https://www.packtpub.com/application-development/go-programming-blueprints)
-22. [The Go Programming Language(Published Oct 30, 2015,Not Yet Published)](http://www.gopl.io/)
-23. [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+15. [《Go 命令教程》](https://github.com/hyper-carrot/go_command_tutorial)
+16. [《Network programming with Go》](http://jan.newmarch.name/go/)：[中文版](https://github.com/astaxie/NPWG_zh)
+17. [《Practical Cryptography With Go》](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
+18. [《An Introduction to Programming in Go》](http://www.golang-book.com/)
+19. [《Go Bootcamp》](http://www.golangbootcamp.com/book)
+20. [《Mastering Concurrency in Go(July 2014)Nathan Kozyra》](https://www.packtpub.com/application-development/mastering-concurrency-go)
+21. [《Go Programming Blueprints(January 23,2015)》](https://www.packtpub.com/application-development/go-programming-blueprints)
+22. [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
+23. [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ## Go 项目
 
@@ -61,6 +61,9 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
 	- [gorm](https://github.com/jinzhu/gorm): 全功能 ORM (无限接近) 支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [gosql](https://github.com/rushteam/gosql):  gosql 一款全新ORM go-style风格、轻量、简单、强大 支持 MySQL
+- 其他：
+	- [kratos](https://github.com/go-kratos/kratos): 一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。
+	- [TiDB](https://github.com/pingcap/tidb): is an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads
 
 ## 资料汇总
 

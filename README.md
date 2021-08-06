@@ -67,10 +67,11 @@ https://github.com/Alikhll/golang-developer-roadmap
 	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
 	- [gorm](https://github.com/jinzhu/gorm): 全功能 ORM (无限接近) 支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [gosql](https://github.com/rushteam/gosql):  gosql 一款全新ORM go-style风格、轻量、简单、强大 支持 MySQL
+- 实用库：
+	- [converter](https://github.com/gohouse/converter): a lib for golang, generate mysql table schema to golang struct
 - 其他：
 	- [kratos](https://github.com/go-kratos/kratos): 一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。
 	- [TiDB](https://github.com/pingcap/tidb): is an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads
-	- [converter](https://github.com/gohouse/converter): a lib for golang, generate mysql table schema to golang struct
 
 ## 资料汇总
 

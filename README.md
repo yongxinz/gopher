@@ -10,7 +10,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 https://github.com/Alikhll/golang-developer-roadmap
 
-## 基础专栏
+## 专栏文章
 
 1. [开发环境搭建以及开发工具 VS Code 配置](<https://github.com/yongxinz/gopher/blob/main/sc/00-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20VS%20Code%20%E9%85%8D%E7%BD%AE.md>)
 
@@ -52,7 +52,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 22. [《The Go Programming Language》](http://www.gopl.io/) Published Oct 30, 2015,Not Yet Published
 23. [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
-## Go 项目
+## Go 项目 & 库
 
 - Web 框架：
 	- [Macaron](https://go-macaron.com/)：模块化 Web 框架
@@ -70,6 +70,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 - 其他：
 	- [kratos](https://github.com/go-kratos/kratos): 一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。
 	- [TiDB](https://github.com/pingcap/tidb): is an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads
+	- [converter](https://github.com/gohouse/converter): a lib for golang, generate mysql table schema to golang struct
 
 ## 资料汇总
 

@@ -91,6 +91,9 @@ https://github.com/Alikhll/golang-developer-roadmap
 	- [Go database/sql tutorial](http://go-database-sql.org/)
 	- [标准库代码示例](https://github.com/astaxie/gopkg)
 
+- 实用工具：
+	- [Convert JSON to Go struct](https://mholt.github.io/json-to-go/)
+
 ## 交流社区
 
 ### 中文社区

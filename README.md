@@ -24,6 +24,8 @@ https://github.com/Alikhll/golang-developer-roadmap
 
 6. [流程控制，一网打尽](<https://github.com/yongxinz/gopher/blob/main/sc/05-%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%EF%BC%8C%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD.md>)
 
+7. [函数那些事](<https://github.com/yongxinz/gopher/blob/main/sc/06-%E5%87%BD%E6%95%B0%E9%82%A3%E4%BA%9B%E4%BA%8B.md>)
+
 ## 必读书单
 
 [百度云下载链接](https://pan.baidu.com/s/1kX_QBAEmJ7twIV56QVOkxQ) 密码：51fn

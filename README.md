@@ -93,6 +93,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 
 - 实用工具：
 	- [Convert JSON to Go struct](https://mholt.github.io/json-to-go/)
+	- [Convert YAML to Go struct](https://zhwt.github.io/yaml-to-go/)
 
 ## 交流社区
 

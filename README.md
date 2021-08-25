@@ -82,8 +82,11 @@ https://github.com/Alikhll/golang-developer-roadmap
 	- [validator](https://github.com/go-playground/validator): Package validator implements value validations for structs and individual fields based on tags.
 	- [cron](https://github.com/robfig/cron): a cron library for go
 	- [amqp](https://github.com/streadway/amqp): This is an AMQP 0.9.1 client with RabbitMQ extensions in Go.
+	- [cli](https://github.com/urfave/cli): cli is a simple, fast, and fun package for building command line apps in Go.
+	- [viper](https://github.com/spf13/viper): Viper is a complete configuration solution for Go applications including 12-Factor apps.
 - 其他：
 	- [kratos](https://github.com/go-kratos/kratos): 一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。
+	- [pocassist](https://github.com/jweny/pocassist): 一个 Golang 编写的全新开源漏洞测试框架。
 
 ## 资料汇总
 
@@ -95,6 +98,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 	- [GopherCon 2015](https://github.com/gophercon/2015-talks)
 	- [GopherCon 2016](https://github.com/gophercon/2016-talks)
 	- [GopherCon 2017](https://github.com/gophercon/2017-talks)
+	- [Go 项目标准布局](https://github.com/golang-standards/project-layout/blob/master/README_zh-CN.md)
 
 - 学习站点：
 	- [Go by Example](https://gobyexample.com/)

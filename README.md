@@ -88,6 +88,8 @@ https://github.com/Alikhll/golang-developer-roadmap
 	- [amqp](https://github.com/streadway/amqp): This is an AMQP 0.9.1 client with RabbitMQ extensions in Go.
 	- [cli](https://github.com/urfave/cli): cli is a simple, fast, and fun package for building command line apps in Go.
 	- [viper](https://github.com/spf13/viper): Viper is a complete configuration solution for Go applications including 12-Factor apps.
+	- [ants](https://github.com/panjf2000/ants): ants 是一个高性能的 goroutine 池，实现了对大规模 goroutine 的调度管理、goroutine 复用，允许使用者在开发并发程序的时候限制 goroutine 数量，复用资源，达到更高效执行任务的效果。
+	- [cel-go](https://github.com/google/cel-go): Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - 其他：
 	- [kratos](https://github.com/go-kratos/kratos): 一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。
 	- [pocassist](https://github.com/jweny/pocassist): 一个 Golang 编写的全新开源漏洞测试框架。

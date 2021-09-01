@@ -30,7 +30,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 
 9. [说说方法](<https://github.com/yongxinz/gopher/blob/main/sc/08-%E8%AF%B4%E8%AF%B4%E6%96%B9%E6%B3%95.md>)
 
-10. [接口 interface](<https://github.com/yongxinz/gopher/blob/main/sc/09-%E6%8E%A5%E5%8F%A3%20interface.md>)
+10. [Go 专栏｜接口 interface](https://mp.weixin.qq.com/s/g7ngRIxxbd-M8K_sL_M4KQ)
 
 ## 技术文章
 

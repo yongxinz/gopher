@@ -12,29 +12,20 @@ https://github.com/Alikhll/golang-developer-roadmap
 
 ## 专栏文章
 
-1. [开发环境搭建以及开发工具 VS Code 配置](<https://github.com/yongxinz/gopher/blob/main/sc/00-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20VS%20Code%20%E9%85%8D%E7%BD%AE.md>)
-
-2. [变量和常量的声明与赋值](<https://github.com/yongxinz/gopher/blob/main/sc/01-%E5%8F%98%E9%87%8F%E5%92%8C%E5%B8%B8%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E4%B8%8E%E8%B5%8B%E5%80%BC.md>)
-
-3. [基础数据类型：整数、浮点数、复数、布尔值和字符串](<https://github.com/yongxinz/gopher/blob/main/sc/02-%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E6%95%B4%E6%95%B0%E3%80%81%E6%B5%AE%E7%82%B9%E6%95%B0%E3%80%81%E5%A4%8D%E6%95%B0%E3%80%81%E5%B8%83%E5%B0%94%E5%80%BC%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2.md>)
-
-4. [复合数据类型：数组和切片 slice](<https://github.com/yongxinz/gopher/blob/main/sc/03-%E5%A4%8D%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E6%95%B0%E7%BB%84%E5%92%8C%E5%88%87%E7%89%87%20slice.md>)
-
-5. [复合数据类型：字典 map 和 结构体 struct](<https://github.com/yongxinz/gopher/blob/main/sc/04-%E5%A4%8D%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E5%AD%97%E5%85%B8%20map%20%E5%92%8C%20%E7%BB%93%E6%9E%84%E4%BD%93%20struct.md>)
-
-6. [流程控制，一网打尽](<https://github.com/yongxinz/gopher/blob/main/sc/05-%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%EF%BC%8C%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD.md>)
-
-7. [函数那些事](<https://github.com/yongxinz/gopher/blob/main/sc/06-%E5%87%BD%E6%95%B0%E9%82%A3%E4%BA%9B%E4%BA%8B.md>)
-
-8. [错误处理：defer，panic 和 recover](<https://github.com/yongxinz/gopher/blob/main/sc/07-%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86%EF%BC%9Adefer%EF%BC%8Cpanic%20%E5%92%8C%20recover.md>)
-
-9. [说说方法](<https://github.com/yongxinz/gopher/blob/main/sc/08-%E8%AF%B4%E8%AF%B4%E6%96%B9%E6%B3%95.md>)
-
+1. [Go 专栏｜开发环境搭建以及开发工具 VS Code 配置](https://mp.weixin.qq.com/s/x1OW--3mwSTjgB2HaKGVVA)
+2. [Go 专栏｜变量和常量的声明与赋值](https://mp.weixin.qq.com/s/cIceTj02bGa0BYqu-JN1Bg)
+3. [Go 专栏｜基础数据类型：整数、浮点数、复数、布尔值和字符串](https://mp.weixin.qq.com/s/aotpxglSGRFfl6A1xPN-dw)
+4. [Go 专栏｜复合数据类型：数组和切片 slice](https://mp.weixin.qq.com/s/MnjIeJPUAA6n48o4yns3hg)
+5. [Go 专栏｜复合数据类型：字典 map 和 结构体 struct](https://mp.weixin.qq.com/s/1unl6K9xHxy4V3KukORC3A)
+6. [Go 专栏｜流程控制，一网打尽](https://mp.weixin.qq.com/s/TbjT1dmTvwiKCzzbWc23kA)
+7. [Go 专栏｜函数那些事](https://mp.weixin.qq.com/s/RKpyVrhtSk9pXMWNVpWYjQ)
+8. [Go 专栏｜错误处理：defer，panic 和 recover](https://mp.weixin.qq.com/s/qYZXfAifBxwl1cDDaP0FNA)
+9. [Go 专栏｜说说方法](https://mp.weixin.qq.com/s/qvFipY0pnmqxok6CVKquvg)
 10. [Go 专栏｜接口 interface](https://mp.weixin.qq.com/s/g7ngRIxxbd-M8K_sL_M4KQ)
 
 ## 技术文章
 
-1. [推荐三个实用的 Go 开发工具](<https://github.com/yongxinz/gopher/blob/main/blog/01-%E6%8E%A8%E8%8D%90%E4%B8%89%E4%B8%AA%E5%AE%9E%E7%94%A8%E7%9A%84%20Go%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md>)
+1. [推荐三个实用的 Go 开发工具](https://mp.weixin.qq.com/s/3GLMLhegB3wF5_62mpmePA)
 
 ## 必读书单
 

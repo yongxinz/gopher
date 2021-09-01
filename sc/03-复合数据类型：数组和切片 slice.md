@@ -1,5 +1,7 @@
 ![](https://github.com/yongxinz/gopher/blob/main/sc/pic/03_%E6%95%B0%E7%BB%84%E5%92%8C%E5%88%87%E7%89%87.png)
 
+**原文链接：** [Go 专栏｜复合数据类型：数组和切片 slice](https://mp.weixin.qq.com/s/MnjIeJPUAA6n48o4yns3hg)
+
 公司 Tony 老师这两天请假，找来了他的好朋友 Kevin 顶班，这两个人的风格真是相差十万八千里。
 
 Tony 性格缓慢，手法轻柔。到底有多轻呢？洗头发的时候我都怀疑他是不是怕把我头发弄湿。

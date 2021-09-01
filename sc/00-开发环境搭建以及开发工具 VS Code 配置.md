@@ -1,5 +1,7 @@
 ![](https://github.com/yongxinz/gopher/blob/main/sc/pic/00_GO%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.png)
 
+**原文链接：** [Go 专栏｜开发环境搭建以及开发工具 VS Code 配置](https://mp.weixin.qq.com/s/x1OW--3mwSTjgB2HaKGVVA)
+
 Go 专栏的第一篇，想学 Go 的同学们，走起～
 
 ### Go 安装

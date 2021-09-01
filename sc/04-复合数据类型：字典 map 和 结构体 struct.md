@@ -1,5 +1,7 @@
 ![](https://github.com/yongxinz/gopher/blob/main/sc/pic/04-%E5%AD%97%E5%85%B8%E5%92%8C%E7%BB%93%E6%9E%84%E4%BD%93.png)
 
+**原文链接：** [Go 专栏｜复合数据类型：字典 map 和 结构体 struct](https://mp.weixin.qq.com/s/1unl6K9xHxy4V3KukORC3A)
+
 楼下新开了一家重庆砂锅肥肠，扩音喇叭一直在放：正宗的老重庆砂锅肥肠，麻辣可口，老巴适了。
 
 正不正宗不知道，反正听口音，我以为我回东北了。

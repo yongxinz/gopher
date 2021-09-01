@@ -1,5 +1,7 @@
 ![](https://github.com/yongxinz/gopher/blob/main/sc/pic/07_%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86.png)
 
+**原文链接：** [Go 专栏｜错误处理：defer，panic 和 recover](https://mp.weixin.qq.com/s/qYZXfAifBxwl1cDDaP0FNA)
+
 最近校招又开始了，我也接到了一些面试工作，当我问「你觉得自己有什么优势」时，十个人里有八个的回答里会有一条「精力充沛，能加班」。
 
 怪不得国家都给认证了：新生代农民工。合着我们这根本就不是什么脑力劳动者，而是靠出卖体力的苦劳力。

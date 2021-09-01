@@ -1,5 +1,7 @@
 ![](https://github.com/yongxinz/gopher/blob/main/sc/pic/09_%E6%8E%A5%E5%8F%A3interface.png)
 
+**原文链接：** [Go 专栏｜接口 interface](https://mp.weixin.qq.com/s/g7ngRIxxbd-M8K_sL_M4KQ)
+
 Duck Typing，鸭子类型，在维基百科里是这样定义的：
 
 > If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck.

@@ -55,6 +55,28 @@ https://github.com/Alikhll/golang-developer-roadmap
 22. [《The Go Programming Language》](http://www.gopl.io/) Published Oct 30, 2015,Not Yet Published
 23. [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
+## 资料汇总
+
+- 文档：
+	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导
+	- [Go Code Convention](https://github.com/Unknwon/go-code-convention)：无闻的 Go 语言编码规范
+	- [Uber Go Guide](https://github.com/xxjwxc/uber_go_guide_cn): Uber Go 语言编码规范
+	- [GopherCon 2014](https://github.com/gophercon/2014-talks)
+	- [GopherCon 2015](https://github.com/gophercon/2015-talks)
+	- [GopherCon 2016](https://github.com/gophercon/2016-talks)
+	- [GopherCon 2017](https://github.com/gophercon/2017-talks)
+	- [Go 项目标准布局](https://github.com/golang-standards/project-layout/blob/master/README_zh-CN.md)
+
+- 学习站点：
+	- [Go by Example](https://gobyexample.com/)
+	- [Go database/sql tutorial](http://go-database-sql.org/)
+	- [标准库代码示例](https://github.com/astaxie/gopkg)
+	- [Go 语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
+
+- 实用工具：
+	- [Convert JSON to Go struct](https://mholt.github.io/json-to-go/)
+	- [Convert YAML to Go struct](https://zhwt.github.io/yaml-to-go/)
+
 ## Go 项目 & 库
 
 - Web 框架：
@@ -84,27 +106,6 @@ https://github.com/Alikhll/golang-developer-roadmap
 - 其他：
 	- [kratos](https://github.com/go-kratos/kratos): 一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。
 	- [pocassist](https://github.com/jweny/pocassist): 一个 Golang 编写的全新开源漏洞测试框架。
-
-## 资料汇总
-
-- 文档：
-	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导
-	- [Go Code Convention](https://github.com/Unknwon/go-code-convention)：无闻的 Go 语言编码规范
-	- [Uber Go Guide](https://github.com/xxjwxc/uber_go_guide_cn): Uber Go 语言编码规范
-	- [GopherCon 2014](https://github.com/gophercon/2014-talks)
-	- [GopherCon 2015](https://github.com/gophercon/2015-talks)
-	- [GopherCon 2016](https://github.com/gophercon/2016-talks)
-	- [GopherCon 2017](https://github.com/gophercon/2017-talks)
-	- [Go 项目标准布局](https://github.com/golang-standards/project-layout/blob/master/README_zh-CN.md)
-
-- 学习站点：
-	- [Go by Example](https://gobyexample.com/)
-	- [Go database/sql tutorial](http://go-database-sql.org/)
-	- [标准库代码示例](https://github.com/astaxie/gopkg)
-
-- 实用工具：
-	- [Convert JSON to Go struct](https://mholt.github.io/json-to-go/)
-	- [Convert YAML to Go struct](https://zhwt.github.io/yaml-to-go/)
 
 ## 交流社区
 

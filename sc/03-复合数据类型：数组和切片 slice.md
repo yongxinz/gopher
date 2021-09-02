@@ -167,7 +167,11 @@ func modify(a [2]int) {
 
 它的底层结构是这样的：
 
+![](https://github.com/yongxinz/gopher/blob/main/sc/pic/03_slice_00.png)
+
 再来看一个例子，看看到底各部分都是什么意思。
+
+![](https://github.com/yongxinz/gopher/blob/main/sc/pic/03_slice_01.png)
 
 底层是一个包含 10 个整型元素的数组，data1 指向数组第 4 个元素，长度是 3，容量取到数组最后一个元素，是 7。data2 指向数组第 5 个元素，长度是 4，容量是 6。
 

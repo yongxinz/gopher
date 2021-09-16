@@ -22,6 +22,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 8. [Go 专栏｜错误处理：defer，panic 和 recover](https://mp.weixin.qq.com/s/qYZXfAifBxwl1cDDaP0FNA)
 9. [Go 专栏｜说说方法](https://mp.weixin.qq.com/s/qvFipY0pnmqxok6CVKquvg)
 10. [Go 专栏｜接口 interface](https://mp.weixin.qq.com/s/g7ngRIxxbd-M8K_sL_M4KQ)
+11. [Go 专栏｜并发编程：goroutine，channel 和 sync](https://mp.weixin.qq.com/s/VG4CSfT2OfxA6nfygWLSyw)
 
 ## 技术文章
 

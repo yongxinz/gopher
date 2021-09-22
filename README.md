@@ -28,6 +28,8 @@ https://github.com/Alikhll/golang-developer-roadmap
 
 1. [推荐三个实用的 Go 开发工具](https://mp.weixin.qq.com/s/3GLMLhegB3wF5_62mpmePA)
 
+## 面试刷题
+
 ## 必读书单
 
 [百度云下载链接](https://pan.baidu.com/s/1kX_QBAEmJ7twIV56QVOkxQ) 密码：51fn
@@ -55,6 +57,9 @@ https://github.com/Alikhll/golang-developer-roadmap
 21. [《Go Programming Blueprints》](https://www.packtpub.com/application-development/go-programming-blueprints) January 23,2015
 22. [《The Go Programming Language》](http://www.gopl.io/) Published Oct 30, 2015,Not Yet Published
 23. [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+24. [《Go 语言圣经（中文版）》](https://books.mlog.club/gopl/)
+25. [《Go 语言并发编程》](https://books.mlog.club/go-concurrency-programming/)
+26. [《深入解析 Go》](https://books.mlog.club/go-internals/zh/)
 
 ## 资料汇总
 
@@ -73,6 +78,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 	- [Go database/sql tutorial](http://go-database-sql.org/)
 	- [标准库代码示例](https://github.com/astaxie/gopkg)
 	- [Go 语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
+	- [地鼠文档](https://www.topgoer.cn/)
 
 - 实用工具：
 	- [Convert JSON to Go struct](https://mholt.github.io/json-to-go/)

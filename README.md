@@ -30,6 +30,32 @@ https://github.com/Alikhll/golang-developer-roadmap
 
 ## 面试刷题
 
+- [交替打印数字和字母](interview/q001.md)
+- [判断字符串中字符是否全都不同](interview/q002.md)
+- [翻转字符串](interview/q003.md)
+- [判断两个给定的字符串排序后是否一致](interview/q004.md)
+- [字符串替换问题](interview/q005.md)
+- [机器人坐标计算](interview/q006.md)
+- [语法题目一](interview/q007.md)
+- [语法题目二](interview/q008.md)
+- [goroutine和channel使用一](interview/q009.md)
+- [实现阻塞读的并发安全Map](interview/q010.md)
+- [高并发下的锁与map读写问题](interview/q011.md)
+- [定时与 panic 恢复](interview/q012.md)
+- [为 sync.WaitGroup 中Wait函数支持 WaitTimeout 功能.](interview/q013.md)
+- [七道语法找错题目](interview/q014.md)
+- [golang 并发题目测试](interview/q015.md)
+- [记一道字节跳动的算法面试题](interview/q016.md)
+- [多协程查询切片问题](interview/q017.md)
+- [对已经关闭的的chan进行读写，会怎么样？为什么？](interview/q018.md)
+- [简单聊聊内存逃逸？](interview/q019.md)
+- [字符串转成byte数组，会发生内存拷贝吗？](interview/q020.md)
+- [http包的内存泄漏](interview/q021.md)
+- [sync.Map 的用法](interview/q022.md)
+- [Go语言的GPM调度器是什么？](interview/go-gpm.md)
+- [Goroutine调度策略](interview/go-scheduler.md)
+- [goroutine调度器概述](interview/go-scheduler-base.md)
+
 ## 必读书单
 
 [百度云下载链接](https://pan.baidu.com/s/1kX_QBAEmJ7twIV56QVOkxQ) 密码：51fn

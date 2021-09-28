@@ -71,7 +71,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 9. [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang)
 10. [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
 11. [《Go语言学习笔记》](https://github.com/qyuhen/book)
-12. [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
+12. [《Go语言高级编程》](https://chai2010.cn/advanced-go-programming-book/)
 13. [《Effective Go》](https://golang.org/doc/effective_go.html)
 14. [《Learning Go》](https://github.com/miekg/gobook)英文版 => [《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn) 中文版
 15. [《Go 命令教程》](https://github.com/hyper-carrot/go_command_tutorial)

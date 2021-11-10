@@ -81,7 +81,7 @@ $ make run
 
 项目使用 [**go-clean-template**](https://github.com/evrone/go-clean-template) 架构模板开发，目录结构如下：
 
-![](../pic/05-id-maker.png)
+![](blog/pic/05-id-maker.png)
 
 下面对各目录做一个简要说明：
 

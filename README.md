@@ -26,6 +26,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 
 ## 技术文章
 
+- [开源项目｜Go 开发的一款分布式唯一 ID 生成系统](https://mp.weixin.qq.com/s/tCGYTlB4nJH1ClViFQJ6Cw)
 - [听说，99% 的 Go 程序员都被 defer 坑过](https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ)
 - [测试小姐姐问我 gRPC 怎么用，我直接把这篇文章甩给了她](https://mp.weixin.qq.com/s/qdI2JqpMq6t2KN1byHaNCQ)
 - [gRPC，爆赞](https://mp.weixin.qq.com/s/1Xbca4Dv0akonAZerrChgA)

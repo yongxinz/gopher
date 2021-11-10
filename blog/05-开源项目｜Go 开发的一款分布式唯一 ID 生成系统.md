@@ -81,7 +81,7 @@ $ make run
 
 项目使用 [**go-clean-template**](https://github.com/evrone/go-clean-template) 架构模板开发，目录结构如下：
 
-![](blog/pic/05-id-maker.png)
+![](https://github.com/yongxinz/gopher/blob/main/blog/pic/05-id-maker.png)
 
 下面对各目录做一个简要说明：
 
@@ -94,7 +94,7 @@ $ make run
 
 借用官方的两张图：
 
-![](../pic/05-go-clean-template-1.png)
+![](https://github.com/yongxinz/gopher/blob/main/blog/pic/05-go-clean-template-1.png)
 
 整体的层次关系是这样的，最里面是 models，定义我们的表结构，然后中间是业务逻辑层，业务逻辑层会提供接口，给最外层的 API 来调用，最外层就是一些工具和调用入口。
 
@@ -102,7 +102,7 @@ $ make run
 
 所以，它们之间的调用关系看起来是这样的：
 
-![](../pic/05-go-clean-template-2.png)
+![](https://github.com/yongxinz/gopher/blob/main/blog/pic/05-go-clean-template-2.png)
 
 ```
 HTTP > usecase

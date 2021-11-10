@@ -81,6 +81,8 @@ $ make run
 
 项目使用 [**go-clean-template**](https://github.com/evrone/go-clean-template) 架构模板开发，目录结构如下：
 
+![](../pic/05-id-maker.png)
+
 下面对各目录做一个简要说明：
 
 - **cmd**：程序入口
@@ -92,13 +94,15 @@ $ make run
 
 借用官方的两张图：
 
-!img[](blog/pic/05-go-clean-template-1.png)
+![](../pic/05-go-clean-template-1.png)
 
 整体的层次关系是这样的，最里面是 models，定义我们的表结构，然后中间是业务逻辑层，业务逻辑层会提供接口，给最外层的 API 来调用，最外层就是一些工具和调用入口。
 
 这样做的最大好处就是解耦，不管最外层如何变化，只要在业务逻辑层实现对应接口即可，核心代码可能根本不需要改变。
 
 所以，它们之间的调用关系看起来是这样的：
+
+![](../pic/05-go-clean-template-2.png)
 
 ```
 HTTP > usecase

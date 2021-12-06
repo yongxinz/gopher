@@ -33,6 +33,10 @@ https://github.com/Alikhll/golang-developer-roadmap
 - [使用 grpcurl 通过命令行访问 gRPC 服务](https://mp.weixin.qq.com/s/GShwcGCopXVmxCKnYf5FhA)
 - [推荐三个实用的 Go 开发工具](https://mp.weixin.qq.com/s/3GLMLhegB3wF5_62mpmePA)
 
+## 源码剖析
+
+- [开始读 Go 源码了](https://mp.weixin.qq.com/s/iPM-mPOepRuDqkBtcnG1ww)
+
 ## 面试刷题
 
 - [交替打印数字和字母](interview/q001.md)

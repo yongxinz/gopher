@@ -8,6 +8,7 @@ import (
 
 func main() {
 	ioReaderData := strings.NewReader("Hello AlwaysBeta")
+	fmt.Printf("%T", ioReaderData)
 
 	// creates a bytes.Buffer and read from io.Reader
 	buf := &bytes.Buffer{}

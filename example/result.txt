@@ -1,0 +1,22 @@
+goos: darwin
+goarch: amd64
+pkg: gopher/example
+cpu: Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz
+Benchmark_SetWithBoolValueWrite
+Benchmark_SetWithBoolValueWrite-4        	       1	3978074842 ns/op	883632216 B/op	  614563 allocs/op
+Benchmark_SetWithBoolValueWrite-4        	       1	3495463383 ns/op	883497584 B/op	  613347 allocs/op
+Benchmark_SetWithBoolValueWrite-4        	       1	3414244101 ns/op	883626856 B/op	  614504 allocs/op
+Benchmark_SetWithInterfaceValueWrite
+Benchmark_SetWithInterfaceValueWrite-4   	       1	5441186730 ns/op	1981569296 B/op	  613814 allocs/op
+Benchmark_SetWithInterfaceValueWrite-4   	       1	4550611792 ns/op	1981700648 B/op	  614450 allocs/op
+Benchmark_SetWithInterfaceValueWrite-4   	       1	4573016917 ns/op	1981301312 B/op	  612533 allocs/op
+Benchmark_SetWithIntValueWrite
+Benchmark_SetWithIntValueWrite-4         	       1	4266794219 ns/op	1412198232 B/op	  614367 allocs/op
+Benchmark_SetWithIntValueWrite-4         	       1	4742827612 ns/op	1412255680 B/op	  614639 allocs/op
+Benchmark_SetWithIntValueWrite-4         	       1	4203061495 ns/op	1412305928 B/op	  614987 allocs/op
+Benchmark_SetWithStructValueWrite
+Benchmark_SetWithStructValueWrite-4      	       1	3491457170 ns/op	802402808 B/op	  613278 allocs/op
+Benchmark_SetWithStructValueWrite-4      	       1	3359559632 ns/op	802401680 B/op	  613492 allocs/op
+Benchmark_SetWithStructValueWrite-4      	       1	3549251996 ns/op	802452016 B/op	  614126 allocs/op
+PASS
+ok  	gopher/example	49.952s

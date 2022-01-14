@@ -35,6 +35,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 
 ## 源码剖析
 
+- [Go Error 嵌套到底是怎么实现的？](https://mp.weixin.qq.com/s/nWb-0RTDG1Pg5ZmJZfbEPA)
 - [为什么要避免在 Go 中使用 ioutil.ReadAll？](https://mp.weixin.qq.com/s/e2A3ME4vhOK2S3hLEJtPsw)
 - [如何在 Go 中将 []byte 转换为 io.Reader？](https://mp.weixin.qq.com/s/nFkob92GOs6Gp75pxA5wCQ)
 - [开始读 Go 源码了](https://mp.weixin.qq.com/s/iPM-mPOepRuDqkBtcnG1ww)

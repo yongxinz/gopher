@@ -8,9 +8,11 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ## Go 开发路线
 
-https://github.com/Alikhll/golang-developer-roadmap
+- [https://github.com/Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
-## 专栏文章
+## 技术博客
+
+### 基础专栏
 
 1. [Go 专栏｜开发环境搭建以及开发工具 VS Code 配置](https://mp.weixin.qq.com/s/x1OW--3mwSTjgB2HaKGVVA)
 2. [Go 专栏｜变量和常量的声明与赋值](https://mp.weixin.qq.com/s/cIceTj02bGa0BYqu-JN1Bg)
@@ -24,7 +26,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 10. [Go 专栏｜接口 interface](https://mp.weixin.qq.com/s/g7ngRIxxbd-M8K_sL_M4KQ)
 11. [Go 专栏｜并发编程：goroutine，channel 和 sync](https://mp.weixin.qq.com/s/VG4CSfT2OfxA6nfygWLSyw)
 
-## 技术文章
+### 技术文章
 
 - [开源项目｜Go 开发的一款分布式唯一 ID 生成系统](https://mp.weixin.qq.com/s/tCGYTlB4nJH1ClViFQJ6Cw)
 - [听说，99% 的 Go 程序员都被 defer 坑过](https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ)
@@ -33,7 +35,7 @@ https://github.com/Alikhll/golang-developer-roadmap
 - [使用 grpcurl 通过命令行访问 gRPC 服务](https://mp.weixin.qq.com/s/GShwcGCopXVmxCKnYf5FhA)
 - [推荐三个实用的 Go 开发工具](https://mp.weixin.qq.com/s/3GLMLhegB3wF5_62mpmePA)
 
-## 源码剖析
+### 源码剖析
 
 - [Go Error 嵌套到底是怎么实现的？](https://mp.weixin.qq.com/s/nWb-0RTDG1Pg5ZmJZfbEPA)
 - [为什么要避免在 Go 中使用 ioutil.ReadAll？](https://mp.weixin.qq.com/s/e2A3ME4vhOK2S3hLEJtPsw)
@@ -100,6 +102,10 @@ https://github.com/Alikhll/golang-developer-roadmap
 26. [《深入解析 Go》](https://books.mlog.club/go-internals/zh/)
 
 ## 资料汇总
+
+### 入门教程
+
+
 
 - 文档：
 	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导

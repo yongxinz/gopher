@@ -2,7 +2,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 关注公众号：**AlwaysBeta**，回复「goebook」即可获得 Go 编程必读书籍。
 
-![](https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/WechatIMG29.jpeg =300)
+![](https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/WechatIMG29.jpeg){:height="50%" width="50%"}
 
 ## Go 开发路线
 

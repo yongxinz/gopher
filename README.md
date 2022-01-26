@@ -105,7 +105,67 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### 入门教程
 
+#### Go 语言中文网 - Go 语言入门教程
 
+**网站链接：** http://c.biancheng.net/golang/
+
+这套 Go 语言教程通俗易懂，深入浅出，既适合没有基础的读者快速入门，也适合工作多年的程序员查阅知识点。
+
+#### 菜鸟教程 - Go 语言教程
+
+**网站链接：** https://www.runoob.com/go/go-tutorial.html
+
+这个网站就不需要多介绍了吧，很多编程语言的入门教程都可以在这里找到。平时写代码过程中，某个知识点忘了，也可以到这里查。
+
+#### W3Cshcool - Go 教程
+
+**网站链接：** https://www.w3cschool.cn/go/
+
+也是一个综合性的编程入门教程网站，资料很多，也都很基础。
+
+#### 易百教程 - Go 语言教程
+
+**网站链接：** https://www.runoob.com/go/go-tutorial.html
+
+和前面两个网站差不多，这个网站上也有很多基础教程。
+
+#### Go 编程时光
+
+**网站链接：** https://golang.iswbm.com/
+
+很不错的系列教程，基础知识涵盖也比较全面。作者还有一个教程，叫 Python 编程时光，我也经常看。
+
+#### 地鼠文档
+
+**网站链接：** https://www.topgoer.cn/
+
+可以说是 Go 编程的导航网站了，收藏了很多 Go 学习资料。包括网站，书籍，开源库，开源项目等。
+
+#### Go by Example
+
+**网站链接：** https://gobyexample.com/
+
+很多代码示例，学习基础知识的时候很实用。可以一边看理论，一边参考这个网站写代码，效果会更好。
+
+### 进阶教程
+
+#### mojotv 博客
+
+**网站链接：** https://mojotv.cn/
+
+很不错的博客，里面很多 Go 进阶文章，还有其他方面的技术文章，值得一读。我试图找了一下作者信息，但是没找到。
+
+#### 面向信仰编程 - Go 语言设计于实现
+
+**网站链接：** https://draveness.me/golang/
+
+左神的博客，内容很深，想要成为大神的话，绝对要来看。
+
+#### Go 夜读
+
+**网站链接：** https://talkgo.org/
+
+这是一个由众多资深 Gopher 组织的开源项目，主要是对 Go 源码进行解读，并且坚持开源，将相关资源都上传到了 GitHub。
 
 - 文档：
 	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导

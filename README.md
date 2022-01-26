@@ -291,4 +291,4 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 文中分享书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。
 
-![](https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/WechatIMG30.jpeg =300)
+![](https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/WechatIMG30.jpeg =300x300)

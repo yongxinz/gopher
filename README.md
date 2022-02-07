@@ -10,6 +10,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ![](https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/Go&#32;学习路线.png)
 
+- [Go 学习路线（2022）](https://mp.weixin.qq.com/s/Dwf98JFUnRij0Ha7o3ZSHQ)
 - [https://github.com/Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
 ## 技术博客

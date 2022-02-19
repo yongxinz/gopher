@@ -11,7 +11,6 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 ![](https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/Go&#32;学习路线.png)
 
 - [Go 学习路线（2022）](https://mp.weixin.qq.com/s/Dwf98JFUnRij0Ha7o3ZSHQ)
-- [https://github.com/Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
 ## 技术博客
 
@@ -473,6 +472,7 @@ Go 语言代码在线运行。
 	- [Go database/sql tutorial](http://go-database-sql.org/)
 	- [标准库代码示例](https://github.com/astaxie/gopkg)
 	- [Go 语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
+	- [https://github.com/Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
 ## Go 项目 & 库
 

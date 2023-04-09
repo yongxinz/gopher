@@ -39,6 +39,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### 源码剖析
 
+- [Go 语言切片是如何扩容的？](https://mp.weixin.qq.com/s/VVM8nqs4mMGdFyCNJx16_g)
 - [读 Go 源码，可以试试这个工具](https://mp.weixin.qq.com/s/E2TL_kcbVcRJ0CnxwbXWLw)
 - [Go Error 嵌套到底是怎么实现的？](https://mp.weixin.qq.com/s/nWb-0RTDG1Pg5ZmJZfbEPA)
 - [为什么要避免在 Go 中使用 ioutil.ReadAll？](https://mp.weixin.qq.com/s/e2A3ME4vhOK2S3hLEJtPsw)
@@ -54,6 +55,8 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 ## 面试刷题
 
 - [Go 语言 new 和 make 关键字的区别](https://mp.weixin.qq.com/s/NBDkI3roHgNgW1iW4e_6cA)
+- [Go 语言数组和切片的区别](https://mp.weixin.qq.com/s/esaAmAdmV4w3_qjtAzTr4A)
+- [Go 语言切片是如何扩容的？](https://mp.weixin.qq.com/s/VVM8nqs4mMGdFyCNJx16_g)
 - [交替打印数字和字母](interview/q001.md)
 - [判断字符串中字符是否全都不同](interview/q002.md)
 - [翻转字符串](interview/q003.md)

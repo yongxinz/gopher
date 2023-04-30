@@ -48,12 +48,14 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### 为什么go
 
+- [为什么 Go for-range 的 value 值地址每次都一样？](https://mp.weixin.qq.com/s/OoJ42UVYe72492mRUGtdvA)
 - [为什么 Go 语言 struct 要使用 tags](https://mp.weixin.qq.com/s/L7-TJ-CzYfuVrIBWP7Ebaw)
 - [为什么 Go 不支持 []T 转换为 []interface](https://mp.weixin.qq.com/s/cwDEgnicK4jkuNpzulU2bw)
 - [为什么要避免在 Go 中使用 ioutil.ReadAll？](https://mp.weixin.qq.com/s/e2A3ME4vhOK2S3hLEJtPsw)
 
 ## 面试刷题
 
+- [为什么 Go for-range 的 value 值地址每次都一样？](https://mp.weixin.qq.com/s/OoJ42UVYe72492mRUGtdvA)
 - [Go 语言 new 和 make 关键字的区别](https://mp.weixin.qq.com/s/NBDkI3roHgNgW1iW4e_6cA)
 - [Go 语言数组和切片的区别](https://mp.weixin.qq.com/s/esaAmAdmV4w3_qjtAzTr4A)
 - [Go 语言切片是如何扩容的？](https://mp.weixin.qq.com/s/VVM8nqs4mMGdFyCNJx16_g)

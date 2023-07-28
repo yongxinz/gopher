@@ -48,6 +48,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### 为什么go
 
+- [为什么说 Go 语言字符串是不可变的？](https://mp.weixin.qq.com/s/AOb6AjKwyTwLeAUou0AU-Q)
 - [为什么 Go for-range 的 value 值地址每次都一样？](https://mp.weixin.qq.com/s/OoJ42UVYe72492mRUGtdvA)
 - [为什么 Go 语言 struct 要使用 tags](https://mp.weixin.qq.com/s/L7-TJ-CzYfuVrIBWP7Ebaw)
 - [为什么 Go 不支持 []T 转换为 []interface](https://mp.weixin.qq.com/s/cwDEgnicK4jkuNpzulU2bw)
@@ -61,6 +62,9 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - [为什么 Go for-range 的 value 值地址每次都一样？](https://mp.weixin.qq.com/s/OoJ42UVYe72492mRUGtdvA)
 - [Go 语言 map 如何顺序读取？](https://mp.weixin.qq.com/s/iScSgfpSE2y14GH7JNRJSA)
 - [Go 语言 map 是并发安全的吗？](https://mp.weixin.qq.com/s/4mDzMdMbunR_p94Du65QOA)
+- [Go 语言 select 都能做什么？](https://mp.weixin.qq.com/s/YyyMzYxMi8I4HEaxzy4c7g)
+- [Go 语言 context 都能做什么？](https://mp.weixin.qq.com/s/7IliODEUt3JpEuzL8K_sOg)
+- [为什么说 Go 语言字符串是不可变的？](https://mp.weixin.qq.com/s/AOb6AjKwyTwLeAUou0AU-Q)
 - [交替打印数字和字母](interview/q001.md)
 - [判断字符串中字符是否全都不同](interview/q002.md)
 - [翻转字符串](interview/q003.md)

@@ -92,6 +92,12 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - [Goroutine调度策略](interview/go-scheduler.md)
 - [goroutine调度器概述](interview/go-scheduler-base.md)
 
+## 微服务
+
+- [go-zero 是如何实现令牌桶限流的？](https://mp.weixin.qq.com/s/--AdUcwOQyP6r5W8ziVwUg)
+- [go-zero 是如何实现计数器限流的？](https://mp.weixin.qq.com/s/CTemkZ2aKPCPTuQiDJri0Q)
+- [go-zero 是如何做路由管理的？](https://mp.weixin.qq.com/s/uTJ1En-BXiLvH45xx0eFsA)
+
 ## 入门教程
 
 ![](https://cdn.jsdelivr.net/gh/yongxinz/picb@main/data/Go&#32;入门教程.png)
